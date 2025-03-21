@@ -387,10 +387,3 @@ For a custom-hook to be merged, you will need to do the following:
 
 - Add it to the README and write documentation for it.
 
-## Sponsors
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/rrousselGit/freezed/master/sponsorkit/sponsors.svg">
-    <img src='https://raw.githubusercontent.com/rrousselGit/freezed/master/sponsorkit/sponsors.svg'/>
-  </a>
-</p>
